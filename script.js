@@ -1,1 +1,5 @@
-console.log("Website Undangan Pernikahan Aktif");
+function bukaUndangan(){
+
+    document.querySelector(".cover").style.display="none";
+
+}
